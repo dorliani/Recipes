@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Yummly/static/css/main.c30009fa.chunk.css",
+    "main.js": "/Yummly/static/js/main.3eb7a4e0.chunk.js",
+    "main.js.map": "/Yummly/static/js/main.3eb7a4e0.chunk.js.map",
+    "runtime-main.js": "/Yummly/static/js/runtime-main.d955bece.js",
+    "runtime-main.js.map": "/Yummly/static/js/runtime-main.d955bece.js.map",
+    "static/css/2.11829350.chunk.css": "/Yummly/static/css/2.11829350.chunk.css",
+    "static/js/2.cf2ce6e6.chunk.js": "/Yummly/static/js/2.cf2ce6e6.chunk.js",
+    "static/js/2.cf2ce6e6.chunk.js.map": "/Yummly/static/js/2.cf2ce6e6.chunk.js.map",
+    "index.html": "/Yummly/index.html",
+    "precache-manifest.e613a8a6ce96a7f9824253cd13adafbc.js": "/Yummly/precache-manifest.e613a8a6ce96a7f9824253cd13adafbc.js",
+    "service-worker.js": "/Yummly/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/Yummly/static/css/2.11829350.chunk.css.map",
+    "static/css/main.c30009fa.chunk.css.map": "/Yummly/static/css/main.c30009fa.chunk.css.map",
+    "static/js/2.cf2ce6e6.chunk.js.LICENSE.txt": "/Yummly/static/js/2.cf2ce6e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d955bece.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.cf2ce6e6.chunk.js",
+    "static/css/main.c30009fa.chunk.css",
+    "static/js/main.3eb7a4e0.chunk.js"
+  ]
+}
